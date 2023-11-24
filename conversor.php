@@ -48,29 +48,3 @@ $endpoint="http://api.exchangeratesapi.io/v1/latest?access_key={$api_key}";
 </body>
 </html>
 
-<!-- <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="script.js" defer></script>
-    <title>Conversor de Moedas</title>
-</head>
-<body>
-    <div class="container">
-        <h1>Converter Moeda</h1>
-        <form method="POST" >
-            <div class="input-container">
-                <p>Quantia em reais</p>
-                <input type="number" class="quantia" placeholder="Reais (BRL)">
-            </div>
-        
-        <button type="button">Converter</button>
-
-        <p>Dólar (USD):</p>
-        <div class="resultado">$</div>
-        </form>
-    </div>
-</body>
-</html> -->
